@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lby55v077w5yiwny?svg=true)](https://ci.appveyor.com/project/FirstBlackList/authorizationtest)
